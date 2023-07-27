@@ -4,6 +4,7 @@ build:
   commands:
     build:
       - chmod +x startup.sh
+      - ./startup.sh
 run:
   command: ./startup.sh
   network:
