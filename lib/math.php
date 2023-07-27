@@ -6,5 +6,5 @@ function addRandomNumbers()
 	$num2 = rand(1, 100);
 	$sum = $num1 + $num2;
 
-	return ['num1','num2','sum'];
+	return [$num1,$num2,$sum];
 }
