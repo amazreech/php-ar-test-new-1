@@ -1,5 +1,5 @@
 <html>
-<head> <title>First PHP App</title> </head>
+<head> <title>AppRunner Monorepo Test PHP App</title> </head>
 <body>
 <?php
     require_once('../../lib/math.php');
