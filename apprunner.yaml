@@ -3,7 +3,7 @@ runtime: php81
 build:
   commands:
     build:
-      - echo no build command
+      - chmod +x startup.sh
 run:
   command: ./startup.sh
   network:
