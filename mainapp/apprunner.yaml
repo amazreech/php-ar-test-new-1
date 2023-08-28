@@ -1,4 +1,4 @@
-version: version: reecha-test
+version: reecha-test
 runtime: php81
 build:
   commands:
